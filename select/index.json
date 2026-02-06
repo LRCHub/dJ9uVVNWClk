@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "คิด(แต่ไม่)ถึง (Same Page?)",
+  "base_artist": "Tilly Birds",
+  "createdAt": "2026-02-06T13:02:04.939409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง (Same Page?)",
+      "artist": "Tilly Birds",
+      "has_synced": true,
+      "path": "select/01_คิด(แต่ไม่)ถึง_(Same_Page_)_Tilly_Birds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง [Same Page?] - Tilly Birds |Official MV|",
+      "artist": "GeneLab",
+      "has_synced": true,
+      "path": "select/02_คิด(แต่ไม่)ถึง_[Same_Page_]_-_Tilly_Birds__Official_MV_GeneLab.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง (Same Page?)",
+      "artist": "Tilly Birds",
+      "has_synced": true,
+      "path": "select/03_คิด(แต่ไม่)ถึง_(Same_Page_)_Tilly_Birds.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง (Same Page?)",
+      "artist": "Tilly Birds",
+      "has_synced": true,
+      "path": "select/04_คิด(แต่ไม่)ถึง_(Same_Page_)_Tilly_Birds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง (Same Page?)",
+      "artist": "Tilly Birds",
+      "has_synced": true,
+      "path": "select/05_คิด(แต่ไม่)ถึง_(Same_Page_)_Tilly_Birds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "คิด(แต่ไม่)ถึง (Same Page)  (Live From It's Gonna Be Tilly Birds)",
+      "artist": "Tilly Birds",
+      "has_synced": false,
+      "path": "select/06_คิด(แต่ไม่)ถึง_(Same_Page)_(Live_From_It's_Gonna_Be_Tilly_Birds)_Tilly_Birds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "คิด(แต่ไม่)ถึง (Same Page?)",
+      "artist": "Tilly Birds",
+      "has_synced": false,
+      "path": "select/pl_01_คิด(แต่ไม่)ถึง_(Same_Page_)_Tilly_Birds.txt"
+    }
+  ]
+}
